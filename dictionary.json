@@ -4,6 +4,7 @@
     "measurements": [
         {
             "name": "Fuel",
+            "configuration": {"hiddenColumns": {"name": true}},
             "key": "prop.fuel",
             "values": [
                 {
